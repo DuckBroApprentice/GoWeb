@@ -1,0 +1,8 @@
+create database mall;
+
+create table users(
+    username varchar(20)
+    password varchar(20)
+    email    varchar(200)
+    phone    varchar(10)
+)
